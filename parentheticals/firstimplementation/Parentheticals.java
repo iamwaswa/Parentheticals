@@ -7,6 +7,10 @@ import java.util.Stack;
  * finding the position of the matching
  * closing parentheses given the position
  * of the opening parentheses
+ *
+ * Time complexity: O(N)
+ * Space complexity: O(N)
+ *
  * @author Waswa Olunga
  */
 
